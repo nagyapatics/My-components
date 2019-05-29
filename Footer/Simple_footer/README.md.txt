@@ -1,0 +1,1 @@
+Simple Footer solution with <table>.
